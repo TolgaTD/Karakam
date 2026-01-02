@@ -3,6 +3,9 @@
 
 KARAKAM, Android zararlı yazılımlarını tespit etmek için statik analiz, ağ keşfi ve tehdit istihbaratını otonom bir mimaride birleştiren, yapay zeka destekli bir analiz platformudur.
 
+<img width="801" height="972" alt="image" src="https://github.com/user-attachments/assets/2f9e4f66-dea9-4db2-babe-68723fcbef2c" />
+
+
 ---
 
 ## 📌 Genel Bakış
